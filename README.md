@@ -31,7 +31,8 @@ talkGPT.sb
 4. **Done!** :partying_face:
 
 [wrap="info"]
-Note: In order for the history to work correctly, I had to access the gpt-4 model. Older models such as gpt-3.5-turbo did not work. You could also change the number of tokens in the code itself. 
+Note: In order for the history to work correctly, I had to access the gpt-3.5-turbo-0125 or gpt-4 and newer. Older models such as gpt-3.5 did not work.
+You could also change the number of tokens in the code itself.
 [/wrap]
 
 <div data-theme-toc="true"> </div>
