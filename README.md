@@ -1,10 +1,12 @@
-# TalkGPT 
+# TalkGPT - Extension for **[streamer.bot](https://streamer.bot)**
 
 ![Dialog with Nicole](./dialog_with_nicole.png)
 
 ## Description
 
-Viewers can communicate directly with OpenAI, with a set number of dialogs stored in a history. I have extended the original implementation with a history per recognized user, so that the context can be improved in dialogue with the AI.
+Streamer.bot is a software specifically designed for streamers to automate their live streams and make them more interactive. It offers a wide range of features, such as the ability to create chat commands, launch automated actions based on specific events or conditions and integration with various services and devices for a more dynamic streaming experience. 
+
+The extension created here offers viewers of a stream the opportunity to talk directly to the AI. The special feature here is that it keeps a fixed number of dialogs per user in memory, so that the dialogs improve.
 
  ## Contributors
 
